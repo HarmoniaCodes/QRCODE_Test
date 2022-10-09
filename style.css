@@ -1,5 +1,5 @@
 body{
-    background-color:hsl(220, 15%, 55%);
+    background-color:hsl(212, 45%, 89%);
     font-family: 'Outfit', sans-serif;
     padding:5%;
 }
@@ -7,7 +7,7 @@ body{
     background-color:hsl(0, 0%, 100%);
     padding:15px;
     border-radius:15px;
-    width:25%;
+    width:20%;
     margin:auto;
 }
 h1 {
@@ -20,7 +20,6 @@ p {
     font-weight:400;
     font-size:1em;
     line-height:2;
-    padding:10px;
 }
 img {
     width:100%;
